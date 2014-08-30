@@ -6,7 +6,7 @@ This is the official repository for DonutCraft. Feel free to leave suggestions a
 
 DonutCraft is a 1.7.10 Private Pack on the ATLauncher
 
-Bevo's Website/Forums: http://donutcraftpack.enjin.com/
+Donut's Website/Forums: http://donutcraftpack.enjin.com/
 
 AT Launcher Web Page: 
 http://www.atlauncher.com/packs/DonutCraft/
