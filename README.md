@@ -15,4 +15,4 @@ Bug/Issue Tracker:
 https://github.com/OptimusDonut/DonutCraft-Pack/issues/new
 
 Permissions for mod use: 
-https://docs.google.com/spreadsheet/ccc?key=0Asi21P6brHsbdGJLVVpfSEN3WEhMc0NPNkFPSHBKYWc&usp=drive_web#gid=0
+https://docs.google.com/spreadsheet/ccc?key=0Av4E27puDiEfdGNLWk13Tjdxb3ZBbzhVQ1JqVHV0SHc#gid=0
