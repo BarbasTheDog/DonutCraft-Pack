@@ -1,0 +1,1 @@
+mods.tconstruct.Smeltery.removeMelting(<TConstruct:materials:16>);
