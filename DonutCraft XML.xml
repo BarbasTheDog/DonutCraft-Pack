@@ -1,6 +1,6 @@
 <version>
 	<pack>
-		<version>1.1.0a</version>
+		<version>1.1.0b</version>
 		<memory>3048</memory>
 		<permgen>256</permgen>
 		<minecraft>1.7.10</minecraft>
@@ -43,8 +43,7 @@
 <mod name="ejml" version="0.23" url="packs/DonutCraft/files/ic2/ejml-0.23.jar" file="ejml-0.23.jar" md5="2773bb49335358b2d042ac50690ea5d7" hidden="yes" download="server" type="ic2lib" website="http://www.industrial-craft.net" description="IC2 Addon" />
 
 	<!-- Scripts -->
-<mod name="Scripts" version="0.0.1a" url="packs/DonutCraft/files/scripts/scripts.zip" file="scripts.zip" hidden="yes" md5="68dc6bfec5e0a4ec6b0d89a687f3d14d" type="extract" extractto="root" download="server" website="http://www.atlauncher.com/pack/DonutCraft" description="Changes the recipes" />
-
+<mod name="Scripts" version="1.0.0a" url="packs/DonutCraft/files/scripts/scripts1.0.0a.zip" file="scripts1.0.0a.zip" md5="3adb5dcd0ca2434431a1863cacdc6ea9" hidden="yes" type="extract" extractto="root" download="server" website="http://donutcraftpack.enjin.com/" description="These change recipes in the game." />
 
 	<!-- Mods -->
 <mod name="ArmorStatusHUD" version="1.28" url="packs/DonutCraft/files/NewMods/[1.7.10]ArmorStatusHUD-client-1.28.jar" file="[1.7.10]ArmorStatusHUD-client-1.28.jar" md5="f0da1af3ea5b7797d2742b7a2b874e92" download="server" type="mods" website="http://www.minecraftforum.net/topic/1114612-" optional="yes" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=briefcase%2espeakers%40gmail%2ecom&amp;lc=US&amp;item_name=bspkrs%20mod%20development&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest" authors="bspkrs" description="Provides a HUD with your equipped armor/item stats." />
