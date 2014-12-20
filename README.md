@@ -4,11 +4,11 @@ DonutCraft-Pack
 This is the official repository for DonutCraft. Feel free to leave suggestions and/or bug reports to help improve this pack.
 
 
-DonutCraft is a 1.7.10 Private Pack on the ATLauncher
+DonutCraft is a 1.7.10 Semi-Public Pack on the ATLauncher
 
 Donut's Website/Forums: http://donutcraftpack.enjin.com/
 
-AT Launcher Web Page: 
+ATLauncher Web Page: 
 http://www.atlauncher.com/packs/DonutCraft/
 
 Bug/Issue Tracker: 
