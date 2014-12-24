@@ -1,1 +1,0 @@
-mods.mekanism.Infuser.removeRecipe(<Mekanism:Dust:5>);
