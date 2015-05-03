@@ -1,6 +1,6 @@
 <version>
 	<pack>
-		<version>1.0.4c</version>
+		<version>1.0.5</version>
 		<memory>3048</memory>
 		<permgen>256</permgen>
 		<minecraft>1.7.10</minecraft>
@@ -37,7 +37,7 @@
 	
 	
 	<!-- Forge -->
-<mod name="Minecraft Forge" version="10.13.3.1384" url="packs/DonutCraft/files/forge-1.7.10-10.13.3.1384-1.7.10-universal.jar" file="forge-1.7.10-10.13.3.1384-1.7.10-universal.jar" md5="a89badf65e345295334ecb833b537698" download="server" type="forge" website="http://www.minecraftforge.net/forum/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw" description="Minecraft Forge is a modding API used by alot of mods." />
+<mod name="Minecraft Forge" version="10.13.3.1399" url="packs/DonutCraft/files/forge-1.7.10-10.13.3.1399-1.7.10-universal.jar" file="forge-1.7.10-10.13.3.1399-1.7.10-universal.jar" md5="ef452e0853ac00e73d5b58240094837d" download="server" type="forge" website="http://www.minecraftforge.net/forum/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw" description="Minecraft Forge is a modding API used by alot of mods." />
 
 	<!-- 1.7.10 -->
 <mod name="bspkrsCore" version="6.16" url="packs/DonutCraft/files/mods/[1.7.10]bspkrsCore-universal-6.16.jar" file="[1.7.10]bspkrsCore-universal-6.16.jar" md5="e77344bda12bd0b91e01dfbb00a653f0" hidden="yes" download="server" type="dependency" website="http://www.minecraftforum.net/topic/1114612-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=briefcase%2espeakers%40gmail%2ecom&amp;lc=US&amp;item_name=bspkrs%20mod%20development&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest" authors="DaftPVF,bspkrs" description="Shared classes used in the mods maintained by bspkrs." />
@@ -95,7 +95,7 @@
 
 <mod name="Blue Power" version="0.2.928" url="packs/DonutCraft/files/mods/BluePower-1.7.10-0.2.928-universal.jar" file="BluePower-1.7.10-0.2.928-universal.jar" md5="f3b1287886946145471944e93e0be4dc" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/223099-blue-power" authors="Quetzi,Zness,MineMaarten,K4Unl,Amadornes" description="Work in progress mod aiming to reintroduce some missing &apos;glue&apos; blocks from prior versions of modded Minecraft" />
 
-<mod name="Botania" version="r1.6-184" url="packs/DonutCraft/files/mods/Botania r1.6-184.jar" file="Botania r1.6-184.jar" md5="077d7b7ed03d87116580ac3bbc3a52af" download="server" type="mods" website="http://www.botaniamod.net" authors="Vazkii" description="Botania is a mod that adds nature magic to Minecraft." />
+<mod name="Botania" version="r1.6-187" url="packs/DonutCraft/files/mods/Botania r1.6-187.jar" file="Botania r1.6-187.jar" md5="295a894f06c9043d46bdf5296b16ef13" download="server" type="mods" website="http://www.botaniamod.net" authors="Vazkii" description="Botania is a mod that adds nature magic to Minecraft." />
 
 <mod name="Buildcraft" version="6.4.14" url="packs/DonutCraft/files/mods/buildcraft-6.4.14.jar" file="buildcraft-6.4.14.jar" md5="22dda9172a506cf13dbc486ab0c7d8bf" download="server" type="mods" website="http://www.mod-buildcraft.com/" description="Pipes, engines and quarries!" />
 
@@ -137,7 +137,7 @@
 
 <mod name="Extra Utilities" version="1.2.4b" url="packs/DonutCraft/files/mods/extrautilities-1.2.4b.jar" file="extrautilities-1.2.4b.jar" md5="1095c7b961291cff6ef6817ed7d32ad3" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k" authors="RWTema" description="Bunch of Fairly useful things." />
 
-<mod name="Equivalent Exchange 3" version="1.7.10-0.2.461" url="packs/DonutCraft/files/mods/EquivalentExchange3-1.7.10-0.2.461.jar" file="EquivalentExchange3-1.7.10-0.2.461.jar" md5="8988cc511e0bbca372deab277e66615a" download="server" type="mods" website="http://www.minecraftforum.net/topic/1106178-" authors="pahimar,x3n0ph0b3" description="Transmute stuff into other stuff! Become a Minecraft God!" />
+<mod name="Equivalent Exchange 3" version="1.7.10-0.3.481" url="packs/DonutCraft/files/mods/EquivalentExchange3-1.7.10-0.3.483.jar" file="EquivalentExchange3-1.7.10-0.3.483.jar" md5="d2ecb96f03c70076513c84b0fda1bc67" download="server" type="mods" website="http://www.minecraftforum.net/topic/1106178-" authors="pahimar,x3n0ph0b3" description="Transmute stuff into other stuff! Become a Minecraft God!" />
 
 <mod name="Factorization" version="0.8.89" url="packs/DonutCraft/files/mods/Factorization-1.7.10-0.8.89.jar" file="Factorization-1.7.10-0.8.89.jar" md5="e687d4886c8e30d68fc89c5da9196f3f" download="server" type="mods" website="http://minecraftforum.net/topic/1351802-" authors="neptunepink" description="Auto-crafting, ore processing, barrels, and other tools" />
 
@@ -209,7 +209,7 @@
 
 <mod name="ModTweaker" version="0.6" url="packs/DonutCraft/files/mods/ModTweaker-1.7.X-0.6-0.jar" file="ModTweaker-1.7.X-0.6-0.jar" md5="4cbee2fb66cfaef1fa647a2b1aa8286f" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-6" authors="joshie,SpitefulFox" description="ModTweaker is an addon for MineTweaker, providing additional support for various different mods." />
 
-<mod name="Mystcraft" version="0.11.5.00" url="packs/DonutCraft/files/mods/mystcraft-1.7.10-0.11.5.00.jar" file="mystcraft-1.7.10-0.11.5.00.jar" md5="143cf8eb8d88875da2f3b1765295f485" download="server" type="mods" website="http://xcompwiz.com" authors="XCompWiz" description="Mystcraft brings elements from the Myst series of games and books to Minecraft, as well as allowing players to actually write and travel to their own Ages." />
+<mod name="Mystcraft" version="0.11.6.06" url="packs/DonutCraft/files/mods/mystcraft-1.7.10-0.11.7.00.jar" file="mystcraft-1.7.10-0.11.7.00.jar" md5="d3d74ed41b0b99346f85668887bf0bf3" download="server" type="mods" website="http://xcompwiz.com" authors="XCompWiz" description="Mystcraft brings elements from the Myst series of games and books to Minecraft, as well as allowing players to actually write and travel to their own Ages." />
 
 <mod name="Natura" version="1.7.10-92.8a1150f" url="packs/DonutCraft/files/mods/natura-1.7.10-2.2.0.1.jar" file="natura-1.7.10-2.2.0.1.jar" md5="ed9a7044d963b7e5ce7ca52ec628bd11" download="server" type="mods" website="http://www.minecraftforum.net/topic/1753754-natura/" authors="mDiyo,Slime Knights" description="Heyo, Redwood trees! Chop them all day long!" />
 
@@ -256,7 +256,7 @@
 
 <mod name="Redstone Arsenal" version="1.1.0" url="packs/DonutCraft/files/mods/RedstoneArsenal-[1.7.10]1.1.0-80.jar" file="RedstoneArsenal-[1.7.10]1.1.0-80.jar" md5="1c3545eb290e0ddadeba1cc36afd2814" download="server" type="mods" website="http://www.teamcofh.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="Team CoFH" description="Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!" />
 
-<mod name="RFTools" version="2.80" url="packs/DonutCraft/files/mods/rftools-2.80.jar" file="rftools-2.80.jar" md5="62677965f1c45c5c731014d2f2fb278f"  download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/224641-rftools" authors="McJty" description="RedFlux tools" />
+<mod name="RFTools" version="2.81" url="packs/DonutCraft/files/mods/rftools-2.81.jar" file="rftools-2.81.jar" md5="52ec1ca086a894e5206405346588b42e" download="server" type="mods" website="" authors="McJty" description="RedFlux tools" />
 
 <mod name="Refined Relocation" version="1.0.8b" url="packs/DonutCraft/files/mods/RefinedRelocation-1.7.10-1.0.8b.jar" file="RefinedRelocation-1.7.10-1.0.8b.jar" md5="b94cc69fedb83b9210f70b36f94debb5" download="server" type="mods" website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious,dmillerw" description="Filter, sort and relocate!" />
 
