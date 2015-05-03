@@ -115,6 +115,8 @@
 
 <mod name="Clienthax&apos;s ChocoCraft" version="4.1.4" url="packs/DonutCraft/files/mods/ChocoCraft-4.1.5.jar" file="ChocoCraft-4.1.5.jar" md5="4b09d87f1d87df32b7a1394383927d4f" download="server" type="mods" website="http://www.minecraftforum.net/topic/1119809-" authors="Torojima &lt;al-s@gmx.de&gt;, Micdoodle" description="Adds a mountable, breedable mob and supporting items." />
 
+<mod name="Custom Main Menu" version="1.4" url="packs/DonutCraft/files/mods/CustomMainMenu-MC1.7.10-1.4.jar" file="CustomMainMenu-MC1.7.10-1.4.jar" md5="bf5de521bd9c03dfeae4cea041d8d398" download="server" type="mods" website="" authors="lumien" description="Allows you to edit the mainmenu using json" />
+
 <mod name="Dense Ores" version="1.6.2" url="packs/DonutCraft/files/mods/denseores-1.6.2.jar" file="denseores-1.6.2.jar" md5="aab8a8aad4385de5367987d64317562c" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/224942-dense-ores" authors="RWTema" description="Adds new ore variants to the game" />
 
 <mod name="Draconic Evolution" version="v1.0.1" url="packs/DonutCraft/files/mods/Draconic-Evolution-1.7.10-v1.0.1.jar" file="Draconic-Evolution-1.7.10-v1.0.1.jar" md5="39af5cd2e9ae47c80398963ec58c0b8c" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2093099-draconic-evolution-1-0-1rc4" authors="GreatOrator" description="More Power" />
@@ -232,7 +234,7 @@
 <mod name="Opis" version="1.2.5_1.7.10" url="packs/DonutCraft/files/mods/Opis-1.2.5_1.7.10.jar" file="Opis-1.2.5_1.7.10.jar" md5="82e98ab306d952f3371a514333c226b4" download="server" type="mods" depends="MobiusCore" optional="yes" group="map" website="http://minecraft.curseforge.com/mc-mods/73832-opis/" authors="ProfMobius" description="Contextual server profiler" />
 	<mod name="MobiusCore" version="1.2.5_1.7.10" url="packs/DonutCraft/files/mods/MobiusCore-1.2.5_1.7.10.jar" file="MobiusCore-1.2.5_1.7.10.jar" md5="29990acae6a30d35057380222be87294" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/76734-mobiuscore" optional="yes" linked="MobiusCore" authors="ProfMobius" description="Core mod used for Opis" />
 
-<mod name="Optifine" version="HD_U_B6" url="http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_B6.jar" file="OptiFine_1.7.10_HD_U_B6.jar" download="browser" type="mods" optional="yes" website="http://optifine.net/"  description="Game Optimizations." />
+<mod name="Optifine" version="HD_U_B6" url="http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_B7.jar" file="OptiFine_1.7.10_HD_U_B6.jar" download="browser" type="mods" optional="yes" website="http://optifine.net/"  description="Game Optimizations." />
 
 <mod name="Pam&apos;s HarvestCraft" version="1.7.10g" url="packs/DonutCraft/files/mods/Pams HarvestCraft 1.7.10g.jar" file="Pams HarvestCraft 1.7.10g.jar" md5="01a3c287c9b43c13bb5e8cf6560bea92" download="server" type="mods" website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UMVYJNMULKL2W&amp;lc=US&amp;item_name=Pam%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" authors="Pamela Collins" description="An absolutely huge farming and food mod." />
 
