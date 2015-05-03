@@ -1,0 +1,12 @@
+[
+  {
+    "address": "irc.twitch.tv",
+    "nick": "Optimus0",
+    "serverPassword": "oauth:87fhrtthyn1z9dg903f2ogenr7kgns",
+    "channels": [
+      {
+        "name": "#optimus0"
+      }
+    ]
+  }
+]
