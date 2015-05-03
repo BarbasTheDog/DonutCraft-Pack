@@ -115,7 +115,7 @@
 
 <mod name="Clienthax&apos;s ChocoCraft" version="4.1.4" url="packs/DonutCraft/files/mods/ChocoCraft-4.1.5.jar" file="ChocoCraft-4.1.5.jar" md5="4b09d87f1d87df32b7a1394383927d4f" download="server" type="mods" website="http://www.minecraftforum.net/topic/1119809-" authors="Torojima &lt;al-s@gmx.de&gt;, Micdoodle" description="Adds a mountable, breedable mob and supporting items." />
 
-<mod name="Custom Main Menu" version="1.4" url="packs/DonutCraft/files/mods/CustomMainMenu-MC1.7.10-1.4.jar" file="CustomMainMenu-MC1.7.10-1.4.jar" md5="bf5de521bd9c03dfeae4cea041d8d398" download="server" type="mods" website="" authors="lumien" description="Allows you to edit the mainmenu using json" />
+<mod name="Custom Main Menu" version="1.4" url="packs/DonutCraft/files/mods/CustomMainMenu-MC1.7.10-1.4.jar" file="CustomMainMenu-MC1.7.10-1.4.jar" md5="bf5de521bd9c03dfeae4cea041d8d398" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu/pages/custom-main-menu" authors="lumien" description="Allows you to edit the mainmenu using json" />
 
 <mod name="Dense Ores" version="1.6.2" url="packs/DonutCraft/files/mods/denseores-1.6.2.jar" file="denseores-1.6.2.jar" md5="aab8a8aad4385de5367987d64317562c" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/224942-dense-ores" authors="RWTema" description="Adds new ore variants to the game" />
 
@@ -258,7 +258,7 @@
 
 <mod name="Redstone Arsenal" version="1.1.0" url="packs/DonutCraft/files/mods/RedstoneArsenal-[1.7.10]1.1.0-80.jar" file="RedstoneArsenal-[1.7.10]1.1.0-80.jar" md5="1c3545eb290e0ddadeba1cc36afd2814" download="server" type="mods" website="http://www.teamcofh.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="Team CoFH" description="Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!" />
 
-<mod name="RFTools" version="2.81" url="packs/DonutCraft/files/mods/rftools-2.81.jar" file="rftools-2.81.jar" md5="52ec1ca086a894e5206405346588b42e" download="server" type="mods" website="" authors="McJty" description="RedFlux tools" />
+<mod name="RFTools" version="2.81" url="packs/DonutCraft/files/mods/rftools-2.81.jar" file="rftools-2.81.jar" md5="52ec1ca086a894e5206405346588b42e" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/224641-rftools" authors="McJty" description="RedFlux tools" />
 
 <mod name="Refined Relocation" version="1.0.8b" url="packs/DonutCraft/files/mods/RefinedRelocation-1.7.10-1.0.8b.jar" file="RefinedRelocation-1.7.10-1.0.8b.jar" md5="b94cc69fedb83b9210f70b36f94debb5" download="server" type="mods" website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious,dmillerw" description="Filter, sort and relocate!" />
 
