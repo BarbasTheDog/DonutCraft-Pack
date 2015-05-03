@@ -198,10 +198,7 @@
                 "images" : [
 					"custommainmenu:scrn/1.png",
 					"custommainmenu:scrn/2.png",
-					"custommainmenu:scrn/3.png",
-					"custommainmenu:scrn/4.png",
-					"custommainmenu:scrn/5.png",
-					"custommainmenu:scrn/6.png"
+					"custommainmenu:scrn/3.png"
 							],
 				"displayDuration" : 100,
 				"fadeDuration" : 40,
