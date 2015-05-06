@@ -45,8 +45,6 @@
 <mod name="ForgeMultipart" version="1.1.0.314" url="packs/DonutCraft/files/1.7.10/ForgeMultipart-1.7.10-1.1.0.314-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.314-universal.jar" md5="f09d6bb48f518246af12751087b7734a" hidden="yes" download="server" type="dependency" website="http://files.minecraftforge.net/ForgeMultipart/" description="Adds Smaller Parts of Blocks" />
 <mod name="Baubles" version="1.7.10-1.0.1.10" url="packs/DonutCraft/files/1.7.10/Baubles-1.7.10-1.0.1.10.jar" file="Baubles-1.7.10-1.0.1.10.jar" md5="0e711d6535970f62d4964edaa26f4623" download="server" type="mods" website="http://www.minecraftforum.net/topic/2535073-baubles" authors="Azanor" description="Adding a touch of bling to Minecraft" />
 
-<mod name="Scripts" version="1.0.0" url="packs/DonutCraft/files/scripts/scripts.zip" file="scripts.zip" hidden="yes"  type="extract" extractto="root" md5="d1389a25a262814e07519c308e9001e2" website="http://atlauncher.com/packs/donutcraft" download="server" description="Recipe Changes" />
-<mod name="ServerDat" version="1.0.0" url="packs/DonutCraft/files/servers.zip" file="servers.zip" md5="ec2f0907fce5eb59846cc37d45890a90" download="server" extractto="root" hidden="yes" type="extract" website="http://atlauncher.com/packs/donutcraft" description="Server.dat" />
 	<!-- IC2 -->
 
 <mod name="ejml" version="0.23" url="packs/DonutCraft/files/ic2/ejml-0.23.jar" file="ejml-0.23.jar" md5="2773bb49335358b2d042ac50690ea5d7" hidden="yes" download="server" type="ic2lib" website="http://www.industrial-craft.net" description="IC2 Addon" />
