@@ -1,0 +1,213 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/DonutCraft.png",
+            "posX" : -135,
+            "posY" : 55,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+			"texture" : "custommainmenu:textures/gui/buttons.png",
+            "posX" : 104,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+		"Github":
+        {
+            "text" : "Issue Tracker",
+			"hoverText" : "Github",
+			"alignment" : "top_right",
+            "posX" : -100,
+            "posY" : 2,
+            "width" : 98,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "https://github.com/OptimusDonut/DonutCraft-Pack/issues"
+            }
+        },
+
+		"Changelogs":
+        {
+            "text" : "Changelog",
+			"alignment" : "top_center",
+            "posX" : -50,
+            "posY" : 2,
+            "width" : 98,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "http://pastebin.com/YHFnJVPV"
+            }	
+        },
+
+		"Subreddit":
+        {
+            "text" : "Subreddit",
+			"alignment" : "top_left",
+            "posX" : 2,
+            "posY" : 2,
+            "width" : 98,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "http://www.reddit.com/r/DonutCraft/"
+            }	
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		
+        "example":
+        {
+            "text" : "DonutCraft v1.0.5",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+		
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 110,
+            "posY" : 90,
+            "color" : -256,
+            "alignment" : "top_center"
+        },
+       
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : [
+					"custommainmenu:scrn/1.png",
+					"custommainmenu:scrn/2.png",
+					"custommainmenu:scrn/3.png",
+					"custommainmenu:scrn/4.png",
+					"custommainmenu:scrn/5.png",
+					"custommainmenu:scrn/6.png",
+					"custommainmenu:scrn/7.png"
+							],
+				"displayDuration" : 100,
+				"fadeDuration" : 40,
+				"shuffle" : true
+            }
+        }
+	}
+}

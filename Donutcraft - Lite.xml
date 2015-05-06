@@ -1,6 +1,6 @@
 <version>
 	<pack>
-		<version>0.0.1</version>
+		<version>0.1.0</version>
 		<memory>3048</memory>
 		<permgen>256</permgen>
 		<minecraft>1.7.10</minecraft>
@@ -70,6 +70,8 @@
 
 <mod name="Big Reactors" version="0.4.3A" url="packs/DonutCraft/files/litemods/BigReactors-0.4.3A.jar" file="BigReactors-0.4.3A.jar" md5="b1c71b6a64a84f154af2d83bdc0d33bf" download="server" type="mods" website="http://www.big-reactors.com" authors="ErogenousBeef" description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power." />
 
+<mod name="Biomes O&apos; Plenty" version="2.1.0" url="packs/DonutCraft/files/litemods/BiomesOPlenty-1.7.10-2.1.0.1237-universal.jar" file="BiomesOPlenty-1.7.10-2.1.0.1237-universal.jar" md5="dc8143dfb9e4482110210acef2684666" download="server" type="mods" website="http://www.minecraftforum.net/topic/1495041-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" authors="Adubbz,Amnet,Forstride,ted80" description="Adds over 75 new biomes, blocks, and more!" />
+
 <mod name="Blood Magic: Alchemical Wizardry" version="v1.3.0Beta(1.7.10)" url="packs/DonutCraft/files/litemods/BloodMagic-1.7.10-1.3.2-1.jar" file="BloodMagic-1.7.10-1.3.2-1.jar" md5="1438484cad8f74ceb537cf3b4b579b8b" download="server" type="mods" website="http://www.minecraftforum.net/topic/1899223-" authors="WayofTime" description="Rituals, spells, and more!" />
 
 <mod name="Botania" version="r1.6-187" url="packs/DonutCraft/files/litemods/Botania r1.6-187.jar" file="Botania r1.6-187.jar" md5="295a894f06c9043d46bdf5296b16ef13" download="server" type="mods" website="http://www.botaniamod.net" authors="Vazkii" description="Botania is a mod that adds nature magic to Minecraft." />
@@ -87,6 +89,8 @@
 <mod name="CodeChickenCore" version="1.0.6.43" url="packs/DonutCraft/files/litemods/CodeChickenCore-1.7.10-1.0.6.43-universal.jar" file="CodeChickenCore-1.7.10-1.0.6.43-universal.jar" md5="6accb120aa1d5b8c13819e85f5b44cd5" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Core library for all ChickenBones mods" />
 
 <mod name="CoFH Core" version="3.0.2" url="packs/DonutCraft/files/litemods/CoFHCore-[1.7.10]3.0.2-262.jar" file="CoFHCore-[1.7.10]3.0.2-262.jar" md5="97048ff79d08ad7b66ce71a6c1574e7a" download="server" type="mods" website="http://www.teamcofh.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="Team CoFH" description="Required for all CoFH Mods. Also provides some customization options for Minecraft." />
+
+<mod name="Custom Main Menu" version="1.4" url="packs/DonutCraft/files/litemods/CustomMainMenu-MC1.7.10-1.4.jar" file="CustomMainMenu-MC1.7.10-1.4.jar" md5="8b2e956ac4640a71c14ed8c3a414e223" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu" authors="lumien" description="Allows you to edit the mainmenu using json" />
 
 <mod name="Dense Ores" version="1.6.2" url="packs/DonutCraft/files/litemods/denseores-1.6.2.jar" file="denseores-1.6.2.jar" md5="aab8a8aad4385de5367987d64317562c" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/224942-dense-ores" authors="RWTema" description="Adds new ore variants to the game" />
 
@@ -155,6 +159,8 @@
 <mod name="Jabba" version="1.2.1a" url="packs/DonutCraft/files/litemods/Jabba-1.2.1a_1.7.10.jar" file="Jabba-1.2.1a_1.7.10.jar" md5="4f5a214a8a0d1cc88420bd9eba0dec4d" download="server" type="mods" website="http://www.mobiusstrip.eu/" description="Just Another Better Barrels Mod" />
 
 <mod name="JourneyMap" version="5.0.1" url="packs/DonutCraft/files/litemods/JourneyMap5.0.1_Unlimited_MC1.7.10.jar" file="JourneyMap5.0.1_Unlimited_MC1.7.10.jar" md5="2f633dcb91f32bc55779a3a6c763dff3" download="server" type="mods" website="http://journeymap.techbrew.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE" authors="techbrew" description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore." />
+
+<mod name="Logistics Pipes" version="0.8.3.118" url="packs/DonutCraft/files/litemods/logisticspipes-0.8.3.118.jar" file="logisticspipes-0.8.3.118.jar" md5="621acb3b294714913403d9433607ee25" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289546-buildcraft-logistics-pipes#downloads" description="BuildCraft Sorting System" />
 
 <mod name="Magic Bees" version="2.3.0" url="packs/DonutCraft/files/litemods/magicbees-1.7.10-2.3.0.jar" file="magicbees-1.7.10-2.3.0.jar" md5="8688b0b06454944ff349952c0f34b504" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287405-magic-bees-magic-themed-bees-for-forestry-the" authors="MysteriousAges" description="Magic themed bee expansion for Forestry. TC4, Botania, EE3, AM 2, TE 3" />
 
