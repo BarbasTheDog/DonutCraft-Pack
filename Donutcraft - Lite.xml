@@ -1,6 +1,6 @@
 <version>
 	<pack>
-		<version>0.1.0</version>
+		<version>0.1.1</version>
 		<memory>3048</memory>
 		<permgen>256</permgen>
 		<minecraft>1.7.10</minecraft>
@@ -217,6 +217,8 @@
 <mod name="Pressure Pipes" version="1.1.1.89" url="packs/DonutCraft/files/litemods/pressure-mc1710-1.1.1.89.jar" file="pressure-mc1710-1.1.1.89.jar" md5="1fbb93f6ecbc6e103173fbbc3b0c70ee" download="server" type="mods" website="http://bdew.net/" authors="bdew" description="Pipes and Infinite Water" />
 
 <mod name="QmunityLib" version="0.1.107" url="packs/DonutCraft/files/litemods/QmunityLib-1.7.10-0.1.107-universal.jar" file="QmunityLib-1.7.10-0.1.107-universal.jar" md5="5d8af1ef7ccd3c21eae96a3f93a7cef3" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/224785-qmunitylib" description="Core Mod for BluePower" />
+
+<mod name="Railcraft" version="9.6.1.0" url="packs/DonutCraft/files/litemods/Railcraft_1.7.10-9.6.1.0.jar" file="Railcraft_1.7.10-9.6.1.0.jar" md5="c55d4208858a4eea65006d41859ee959" download="server" type="mods" website="http://railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" authors="CovertJaguar" description="Redefine your rails" />
 
 <mod name="Random Things" version="2.2.4" url="packs/DonutCraft/files/litemods/RandomThings-2.2.4.jar" file="RandomThings-2.2.4.jar" md5="45c948a0954aa78bb5c23801aa5d9eb7" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/59816-random-things" authors="Lumien" description="Random Things packed into one Mod." />
 

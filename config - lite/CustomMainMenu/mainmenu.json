@@ -171,7 +171,7 @@
 		
         "example":
         {
-            "text" : "DonutCraft v1.0.5",
+            "text" : "DonutCraft v0.1.0",
             "posX" : 2,
             "posY" : -10,
             "color" : -1,
